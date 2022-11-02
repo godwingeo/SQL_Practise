@@ -48,6 +48,12 @@ order by games;
       from tot_countries
       order by 1;
 	  
----5.Which nation has participated in all of the olympic games
+---6.Idetify the sport which was played in all summer olympics
+--- a.The first step is to identify the total no of games played in olympics
+--- b.Find for each sport how many games where played in 
+--- c. compare 1 and 2
+
+with t1 as 
+(select )
 
 
